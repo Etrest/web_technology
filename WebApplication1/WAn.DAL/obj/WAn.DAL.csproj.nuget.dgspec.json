@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Для учебы\\4 семестр\\2.Вэб-Технологии\\WebApplication1\\WAn.DAL\\WAn.DAL.csproj": {}
+  },
+  "projects": {
+    "E:\\Для учебы\\4 семестр\\2.Вэб-Технологии\\WebApplication1\\WAn.DAL\\WAn.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Для учебы\\4 семестр\\2.Вэб-Технологии\\WebApplication1\\WAn.DAL\\WAn.DAL.csproj",
+        "projectName": "WAn.DAL",
+        "projectPath": "E:\\Для учебы\\4 семестр\\2.Вэб-Технологии\\WebApplication1\\WAn.DAL\\WAn.DAL.csproj",
+        "packagesPath": "C:\\Users\\jo234\\.nuget\\packages\\",
+        "outputPath": "E:\\Для учебы\\4 семестр\\2.Вэб-Технологии\\WebApplication1\\WAn.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\SDC\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jo234\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
